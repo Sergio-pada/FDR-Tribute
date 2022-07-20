@@ -1,0 +1,43 @@
+html, body {
+    height: 100%;
+    width: 100%;
+      text-align: center;
+      font-family: courier;
+  }
+  html{
+      margin:0;
+      background: linear-gradient(black, #e5e5e5 );
+      background-repeat: no-repeat;
+      background-attachment:fixed
+  }
+  
+  img{
+      width:450px;
+      border-radius:400px;
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+      border: 10px solid white;
+  }
+  
+  
+  h1{
+      text-align: center;
+      color: white;
+  }
+  ul{
+      text-align: center;
+      list-style: none;
+  }
+  h1{
+      text-align: center;
+  }
+  li{
+      padding: 10px;
+  }
+  p{
+      color: grey;
+  }
+  h2{
+      color: white;
+  }
